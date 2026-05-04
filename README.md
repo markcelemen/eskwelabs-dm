@@ -7,7 +7,7 @@ Aspiring Data Scientist | Eskwelabs Innovation Fellow (Cohort 9)
 
 ## 🧭 About Me
 
-I'm a CS student with a background in **statistics**, **Python programming**, and **data science**. I joined the Eskwelabs Innovation Fellowship to explore whether data science or software engineering is the right career path for me — and I came out with a clear answer: **data science is it.**
+I'm a Computer Science student from De La Salle University with a background in **statistics** (intermediate), **Python programming** (intermediate), **data science** (beginner), and **AI/ML** (beginner). I joined the Eskwelabs Innovation Fellowship to explore whether data science or software engineering is the right career path for me.
 
 ---
 
@@ -22,13 +22,13 @@ I'm a CS student with a background in **statistics**, **Python programming**, an
 
 ### Context
 
-Designed a multi-table relational dataset simulating customer churn behavior, with tables for `customer`, `subscriptions`, `usage_monthly`, `support_tickets`, and `payments`. The dataset meets comprehensive criteria across structural, relational, and real-world messiness dimensions (20+ features, 3+ tables, primary/foreign keys, missing values, duplicates, and noise).
+Designed a multi-table relational dataset simulating customer churn behavior, with tables for `customer`, `subscriptions`, `usage_monthly`, `support_tickets`, and `payments`. The dataset meets comprehensive criteria across structural (e.g. 20+ features and 3+ tables), relational (e.g. with primary or foreign key, 1-to-1 or 1-to-many), noise / real-world messiness (e.g. randomness, duplicates, missing values), and more.
 
 ---
 
 ### 📄 Deliverable 1 — Model Research & Specification Document
 
-A formal specification document outlining the dataset design: use case framing, schema definitions, feature descriptions, relationships, adata generation assumptions, and more.
+A formal specification document outlining the dataset design: use case framing, schema definitions, feature descriptions, relationships, adata generation assumptions, etc.
 
 > ![First page of the document](images/mrs.png)  
 > *First page of the document*
@@ -74,7 +74,7 @@ Beyond the core deliverables, I cleaned the generated datasets and applied machi
 | **Causal & Analytical Thinking** | Identifying churn drivers, latent variable modeling, designing realistic variable dependencies |
 | **Python & Data Engineering** | Modular Python code, `pandas`/`numpy`, reproducibility with random seeds, scalable data generation |
 | **Data Preparation & Cleaning** | Handling missing values, outliers, and inconsistencies; preparing datasets for analysis |
-| **Exploratory Data Analysis** | Scikit-learn, Descriptive statistics, distribution/trend/correlation visualizations, anomaly identification |
+| **Exploratory Data Analysis** | `matplotlib`/`seaborn`, Descriptive statistics, distribution/trend/correlation visualizations, anomaly identification |
 
 ### Stretch — Machine Learning
 
@@ -110,23 +110,23 @@ Data Creation → Data Preparation → Exploratory Analysis → Modeling → Ins
 - I learned soft and hard skills related to data science
 
 **What I'm proud of:**
-- Confirmed that **data science is the right career for me**
-- Independently completed the ML stretch task
+- I confirmed that data science is the right career for me
+- I independently completed the ML stretch task
 
 **What I'd improve next time:**
-- Apply **model optimization techniques** to improve metric results
-- Build a **dashboard** using Streamlit or Power BI to present the dataset interactively
+- Apply model optimization techniques to improve metric results
+- Build a dashboard** using Streamlit or Power BI to present the dataset interactively
 
 ---
 
 ## 🚀 What's Next
 
-- Build more **end-to-end data science projects** — covering programming, math/statistics, ML, and domain knowledge — with dashboards or MLOps components
+- Build more **end-to-end data science projects** that covers programming, math/statistics, ML, and domain knowledge with dashboards or MLOps components
 - Secure my **next data science internship**
 
 ---
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Edrian%20Celemen-blue?style=flat&logo=linkedin)](https://linkedin.com/in/markcelemen)
-[![Instagram](https://img.shields.io/badge/GitHub-markedrian-black?style=flat&logo=github)](https://instagram.com/markcelemen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Celemen-blue?style=flat&logo=linkedin)](https://linkedin.com/in/markcelemen)
+[![Instagram](https://img.shields.io/badge/GitHub-markcelemen-black?style=flat&logo=github)](https://instagram.com/markcelemen)
