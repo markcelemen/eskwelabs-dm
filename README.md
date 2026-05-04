@@ -111,7 +111,7 @@ Data Creation → Data Preparation → Exploratory Analysis → Modeling → Ins
 
 **What I'm proud of:**
 - I confirmed that data science is the right career for me
-- I independently completed the ML stretch task
+- I independently completed the EDA notebook and ML stretch task because I had assistance with AI creating the first 2 deliverables
 
 **What I'd improve next time:**
 - Apply model optimization techniques to improve metric results
