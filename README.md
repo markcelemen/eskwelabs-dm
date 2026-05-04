@@ -56,7 +56,7 @@ An independent EDA notebook featuring descriptive statistics, distributions, tre
 
 ### ⭐ Other Deliverables — Cleaned Datasets & Machine Learning (Stretch Task)
 
-Beyond the core deliverables, I cleaned the generated datasets and applied machine learning techniques including data preparation, supervised learning (classification & regression), unsupervised learning (clustering), feature engineering, model training, model evaluation.
+Beyond the core deliverables, I cleaned the generated datasets and applied machine learning techniques including data preparation, supervised learning (classification & regression), unsupervised learning (clustering), feature engineering, model training, or model evaluation.
 
 > ![Code Snippet](images/ml.png)  
 > *Code Snippet*
