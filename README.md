@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mark Edrian Celemen
 
 **Computer Science Student @ De La Salle University**  
-Aspiring Data Scientist | Eskwelabs Innovation Fellow (Cohort 9)
+Eskwelabs Innovation Fellow (Cohort 9)
 
 ---
 
@@ -11,14 +11,14 @@ I'm a Computer Science student from De La Salle University with a background in 
 
 ---
 
-## 🏫 Eskwelabs Innovation Fellowship — Cohort 9
+## 🏫 My Eskwelabs Innovation Fellowship Journey
 
 **Track:** Data Modeling  
 **Focus:** Building a synthetic dataset pipeline for a Customer Churn Prediction use case, targeting **Customer Value Management Analysts**.
 
 ---
 
-## 📁 Project Portfolio — Customer Churn Prediction Dataset
+## 📁 Project Portfolio — Telco Customer Churn Prediction Dataset
 
 ### Context
 
@@ -123,10 +123,3 @@ Data Creation → Data Preparation → Exploratory Analysis → Modeling → Ins
 
 - Build more **end-to-end data science projects** that covers programming, math/statistics, ML, and domain knowledge with dashboards or MLOps components
 - Secure my **next data science internship**
-
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Celemen-blue?style=flat&logo=linkedin)](https://linkedin.com/in/markcelemen)
-[![Instagram](https://img.shields.io/badge/GitHub-markcelemen-black?style=flat&logo=github)](https://instagram.com/markcelemen)
