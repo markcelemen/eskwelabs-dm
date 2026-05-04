@@ -83,7 +83,7 @@ Beyond the core deliverables, I cleaned the generated datasets and applied machi
 | **Data Prep for ML** | Feature selection & engineering, encoding, train/test splitting, feature scaling |
 | **Supervised Learning** | Classification models (churn prediction), regression models |
 | **Unsupervised Learning** | Clustering (customer segmentation), business insight interpretation |
-| **Model Training & Tuning** | `scikit-learn`, hyperparameter adjustment |
+| **Model Training** | `scikit-learn`, train/test split |
 | **Model Evaluation** | Accuracy, Precision, Recall, F1, AUC-ROC, RMSE, MAE |
 | **Model Interpretation** | Key feature drivers, translating results into business insights |
 
@@ -114,12 +114,12 @@ Data Creation → Data Preparation → Exploratory Analysis → Modeling → Ins
 - I completed the EDA notebook and ML stretch task without AI assistance
 
 **What I'd improve next time:**
-- Aapply model tuning/optimization techniques to improve metric results
-- Build a dashboard** using Streamlit or Power BI to present the dataset interactively
+- Apply model tuning/optimization techniques to improve metric results
+- Build a dashboard using Streamlit or Power BI to present the dataset interactively
 
 ---
 
 ## 🚀 What's Next
 
 - Build more **end-to-end data science projects** that covers programming, math/statistics, ML, and domain knowledge with dashboards or MLOps components
-- Secure my **next data science internship**
+- Secure my next data science internship
