@@ -30,7 +30,7 @@ Designed a multi-table relational dataset simulating customer churn behavior, wi
 
 A formal specification document outlining the dataset design: use case framing, schema definitions, feature descriptions, relationships, adata generation assumptions, and more.
 
-> ![First page of the document](mrs.png)  
+> ![First page of the document](images/mrs.png)  
 > *First page of the document*
 
 ---
@@ -41,7 +41,7 @@ A Python notebook that generates the full multi-table synthetic dataset from scr
 
 | Code Snippet | Customer Table Dataset Snippet |
 |:---:|:---:|
-| ![Code Snippet](sdg.png) | ![Customer Table Dataset Snippet](customer.png) |
+| ![Code Snippet](images/sdg.png) | ![Customer Table Dataset Snippet](images/customer.png) |
 
 ---
 
@@ -49,7 +49,7 @@ A Python notebook that generates the full multi-table synthetic dataset from scr
 
 An independent EDA notebook featuring descriptive statistics, distributions, trends, and correlation analysis across the synthetic datasets.
 
-> ![Data Visualization of the Synthetic Dataset](eda.png)  
+> ![Data Visualization of the Synthetic Dataset](images/eda.png)  
 > *Data Visualization of the Synthetic Dataset*
 
 ---
@@ -58,7 +58,7 @@ An independent EDA notebook featuring descriptive statistics, distributions, tre
 
 Beyond the core deliverables, I cleaned the generated datasets and applied machine learning techniques including data preparation, supervised learning (classification & regression), unsupervised learning (clustering), feature engineering, model training, model evaluation.
 
-> ![Code Snippet](ml.png)  
+> ![Code Snippet](images/ml.png)  
 > *Code Snippet*
 
 ---
