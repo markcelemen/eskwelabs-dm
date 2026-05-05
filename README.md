@@ -7,7 +7,7 @@ Eskwelabs Innovation Fellow (Cohort 9)
 
 ## 🧭 About Me
 
-I'm a Computer Science student from De La Salle University with a background in **statistics** (intermediate), **Python programming** (intermediate), **data science** (beginner), and **AI/ML** (beginner). I joined the Eskwelabs Innovation Fellowship to explore whether data science or software engineering is the right career path for me.
+I'm a Computer Science student from De La Salle University with a background in **mathematics and statistics** (intermediate), **Python programming** (intermediate), **data science** (beginner), and **AI/ML** (beginner). I joined the Eskwelabs Innovation Fellowship to explore whether data science or software engineering is the right career path for me.
 
 ---
 
